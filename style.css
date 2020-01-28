@@ -160,10 +160,12 @@ section:last-child {
 	color: #444;
 }
 .interv {
+	list-style-type: none;
 	-moz-column-count:1;
 	-webkit-column-count:1;
 	column-count:1;
-	margin-bottom: 20px;
+	margin-bottom: 40px;
+	margin-left: 40px;
 	font-size: 1em;
 	color: #444;
 }
